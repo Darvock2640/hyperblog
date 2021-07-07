@@ -1,5 +1,3 @@
 hola mundo 
 
-esta es la historia de mi vida usando git por comandos
-
-ahora hablamos de la obra maestra
+mañana hablaremos de su vida laboral
