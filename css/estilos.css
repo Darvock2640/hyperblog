@@ -56,3 +56,8 @@ body
     text-align: center;
     padding: 0.5em;
 }
+
+#post #post_title
+{
+    text-align: center;
+}
