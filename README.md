@@ -1,2 +1,3 @@
-# Este es mi Readme, haha no lo había creado 
-solo texto pues así como va
+# Hyperblog Alejandro :alien:
+
+Este es el **README** del proyecto de prueba para el curso de GIT y GITHUB que estoy haciendo en [Platzi](https://platzi.com/home "Platzi").
