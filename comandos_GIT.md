@@ -208,7 +208,7 @@ siempre primero hacer el rebase desde la rama que quiero a la rama que voy a des
 * Forza la eliminación de archivo (los que git considera se pueden borrar, de acuerdo con el comando de arriba)
     ```
     git clean -f
-	
+	```
 * Trae al header los cambios de commit idetificado por <commit_ID>
     ```
     git cherry-pick <commit_ID>
