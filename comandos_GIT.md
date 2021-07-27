@@ -31,7 +31,7 @@
 * Configurar el correo de la persona para git
     ```
     git config --global user.email "su.correo@correo.co"
-	
+	```
 * Adicionar todos los cambios al tracking del git
     ```
     git add .
