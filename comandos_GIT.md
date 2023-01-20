@@ -116,6 +116,10 @@
     ```
     git branch <nombre>
 	```
+* Ver todos los branchs tanto remotos como locales 
+´´´
+git branch -a
+´´´
 * Traer los elementos del repo en github como origin
     ```
     git remote add origin <url del repo en github>
@@ -142,7 +146,7 @@
     ```
 * Mostrar el log de los cambios del repo con detalles y una grafica de los branches
     ```
-    git log --al --graph
+    git log --all --graph
     ```
 * Mostrar el log de los cambios del repo con detalles y una grafica de los branches de manera más comprimida
     ```
@@ -251,7 +255,7 @@ siempre primero hacer el rebase desde la rama que quiero a la rama que voy a des
 	```
 * Muestra todo lo de shortlog excepto los merges
     ```
-    git shortlog -sn --al --no-merges
+    git shortlog -sn --all --no-merges
 	```
 * Muestra quien ha hecho los cambios en <archivo>
     ```
