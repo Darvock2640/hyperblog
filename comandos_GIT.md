@@ -117,9 +117,9 @@
     git branch <nombre>
 	```
 * Ver todos los branchs tanto remotos como locales 
-´´´
+'''
 git branch -a
-´´´
+'''
 * Traer los elementos del repo en github como origin
     ```
     git remote add origin <url del repo en github>
